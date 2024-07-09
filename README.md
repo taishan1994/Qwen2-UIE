@@ -5,7 +5,7 @@
 
 # 模型训练
 
-- 如果不需要训练，可以载训练好的权重：https://www.modelscope.cn/models/xiximayou/Qwen2-UIE下
+- 如果不需要训练，可以载训练好的权重：https://www.modelscope.cn/models/xiximayou/Qwen2-UIE
 - qwen模型权重下载：https://www.modelscope.cn/models/qwen/Qwen2-0.5B-Instruct
 - yayi-uie数据下载：https://github.com/wenge-research/YAYI-UIE
 
